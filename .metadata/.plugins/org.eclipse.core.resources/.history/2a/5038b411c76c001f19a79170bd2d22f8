@@ -1,0 +1,31 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class RecordClass {
+	
+	public static void main(String[] args) {
+		
+		
+	}
+	
+	
+	public static List<Person> people = new ArrayList<Person>(); 
+	
+	public record Person(String firstname, String lastname) {
+		
+		public Person {
+			
+			for(Person p : people) {
+				
+				if(p.firstname.equals(firstname)) {
+					
+					System.out.println("No add To List");
+				}
+				
+			}
+			
+		}
+		
+	}
+
+}

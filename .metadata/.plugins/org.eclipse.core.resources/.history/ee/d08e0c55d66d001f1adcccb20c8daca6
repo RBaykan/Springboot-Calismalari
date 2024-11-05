@@ -1,0 +1,22 @@
+package com.nontius.proje.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.nontius.proje.domain.Quote;
+import com.nontius.proje.domain.Value;
+
+@Controller
+@RequestMapping("/api")
+public class ControllerClass {
+	
+
+	@GetMapping("/consuming")
+    public Quote getQuote() {
+        Quote randomQuote = new Quote("success", new Value(1L, "Spring Boot harika!"));
+        return randomQuote;
+    }
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Instructions&apos; to &apos;instructions&apos;&#x0D;&#x0A;- Original project: &apos;#1 NES_EMULATOR&apos;&#x0D;&#x0A;- Original element: &apos;#1 NES_EMULATOR/src/Instructions&apos;&#x0D;&#x0A;- Renamed element: &apos;#1 NES_EMULATOR/src/instructions&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Instructions&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Instructions" name="instructions" qualified="false" references="true" stamp="1724940799522" textual="false" version="1.0"/>
+</session>

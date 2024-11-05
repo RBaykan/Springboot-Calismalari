@@ -1,0 +1,8 @@
+package com.nontius.proje.entityDTO;
+
+public class NameSurname {
+	
+	private String name;
+	private String surname;
+
+}
