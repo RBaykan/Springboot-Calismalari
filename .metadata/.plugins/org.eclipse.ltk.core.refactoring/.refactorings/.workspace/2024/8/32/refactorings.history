@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename Java project &apos;37 Springboot Security WebSecurtiyConfig&apos; to &apos;38 Springboot Security WebSecurtiyConfig&apos;&#x0D;&#x0A;- Original element: &apos;37 Springboot Security WebSecurtiyConfig&apos;&#x0D;&#x0A;- Renamed element: &apos;37 Springboot Security WebSecurtiyConfig&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;37 Springboot Security WebSecurtiyConfig&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=37 Springboot Security WebSecurtiyConfig" name="38 Springboot Security WebSecurtiyConfig" references="true" stamp="1723208955791" version="1.0"/>
-</session>

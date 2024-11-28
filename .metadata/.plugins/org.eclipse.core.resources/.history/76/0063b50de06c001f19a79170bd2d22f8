@@ -1,7 +1,0 @@
-package com.nontius.proje.domain;
-
-public record Domain() {
-	
-	
-
-}
